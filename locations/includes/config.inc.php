@@ -3,7 +3,7 @@
 // define the root path to the frontend folder
 define('ROOT', $_SERVER['DOCUMENT_ROOT'].'/locations/');
 // define the root URL to the frontend section
-define('ROOT_URL', 'http://sagharborrum.com/locations/');
+define('ROOT_URL', 'https://sagharborrum.com/locations/');
 // define default language. Note: session will have to be deleted before it will reflect the site upon refresh
 define('DEFAULT_LANGUAGE', 'en_US');
 

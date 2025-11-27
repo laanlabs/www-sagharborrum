@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo ROOT_URL; ?>css/bootstrap.css" media="all" />
 	<link rel="stylesheet" type="text/css" href="<?php echo ROOT_URL; ?>css/bootstrap-responsive.css" media="all" />
 	
-	<script src="http://j.maxmind.com/app/geoip.js" type="text/javascript"><!--mce:1--></script>
+	<script src="https://j.maxmind.com/app/geoip.js" type="text/javascript"><!--mce:1--></script>
 	<script src="https://maps.googleapis.com/maps/api/js?sensor=false&libraries=geometry,places"></script>
 	<script type="text/javascript" src="<?php echo ROOT_URL; ?>js/jquery-1.9.0.min.js"></script>
 	<script type="text/javascript" src="<?php echo ROOT_URL; ?>js/bootstrap.js"></script>
@@ -20,7 +20,7 @@
 	
 	<link rel="stylesheet" href="style.css">
 	 <link rel="stylesheet" href="css/responsive.css">
-	 <link href='http://fonts.googleapis.com/css?family=PT+Sans:700|Open+Sans:600' rel='stylesheet' type='text/css'><!-- Custom Google Fonts -->
+	 <link href='https://fonts.googleapis.com/css?family=PT+Sans:700|Open+Sans:600' rel='stylesheet' type='text/css'><!-- Custom Google Fonts -->
 
 	 <script src="js/libs/modernizr-2.0.6.min.js"></script>
 	

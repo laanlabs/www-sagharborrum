@@ -3,7 +3,7 @@
 // define the root path to the admin folder
 define('ROOT', $_SERVER['DOCUMENT_ROOT'].'/locations/admin/');
 // define the root URL to the admin section
-define('ROOT_URL', 'http://sagharborrum.com/locations/admin/');
+define('ROOT_URL', 'https://sagharborrum.com/locations/admin/');
 // Authentication SALT
 define('SALT', 'Ku23ao+(f%bxh|k?4ee4<+?%B$-<2_#%IpwU4]+o2l+xmXGHL0_h}+1m$QnL.pIu');
 // define default language. Note: session will have to be deleted before it will reflect the site upon refresh
